@@ -15,8 +15,8 @@ Este es un portafolio personal creado como parte de la práctica formativa oblig
 
 [✓] Repositorio en GitHub creado.
 [✓] Proyecto subido al repositorio.
-[] Proyecto publicado utilizando GitHub Pages.
-[] En el "README.md" se indica la URL de GitHub Pages.
+[✓] Proyecto publicado utilizando GitHub Pages.
+[✓] En el "README.md" se indica la URL de GitHub Pages.
 
 • Uso de Google Fonts:
 
@@ -70,4 +70,4 @@ implementación.
 
 ## Enlace al proyecto en GitHub Pages
 
-Enlace a la web publicada: [Tu URL de GitHub Pages]
+Enlace a la web publicada: https://castrofederico93.github.io/FrontEnd/
